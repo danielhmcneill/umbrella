@@ -1,1 +1,7 @@
-# Write your soltuion here!
+#/ umbrella
+
+require "http"
+require "json"
+require "dotenv/load"
+
+
